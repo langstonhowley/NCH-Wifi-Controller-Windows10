@@ -136,7 +136,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <None Include="WpfApp1.licenseheader" />
+    <None Include="NCHWifiController.licenseheader" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
