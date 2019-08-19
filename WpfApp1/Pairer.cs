@@ -21,7 +21,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WpfApp1
+namespace NCHWifiController
 {
     /// <summary>
     /// The Pairer class is responsible for handling the pairing between the user's device and the NCH.

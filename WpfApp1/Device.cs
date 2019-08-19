@@ -19,7 +19,7 @@ using System.Text;
 using System.Threading.Tasks;
 using InTheHand.Net.Sockets;
 
-namespace WpfApp1
+namespace NCHWifiController
 {
     public class Device 
     {

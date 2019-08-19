@@ -17,7 +17,7 @@ using System;
 using System.Collections;
 using System.Linq;
 
-namespace WpfApp1
+namespace NCHWifiController
 {
     /// <summary>
     /// The Discoverer class is responsible for finding all of the NCHs around and notifying the Bluetooth

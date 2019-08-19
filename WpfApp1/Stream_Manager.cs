@@ -21,7 +21,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace WpfApp1
+namespace NCHWifiController
 {
     /// <summary>
     /// This class is responsible for handling the messages sent between the application and the NCH.

@@ -6,7 +6,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 
-namespace WpfApp1
+namespace NCHWifiController
 {
     /// <summmary>
     /// Interaction logic for MainWindow.xaml. Basically the UI controller.
@@ -97,7 +97,7 @@ namespace WpfApp1
                 //"h" key. Bring up the help menu.
                 string s1 = "-To begin a search for NCHs press 's'.";
                 string s2 = "-To pop up this menu press 'h'.";
-                string s3 = "-To make a connection to an NCH, press the button with the NCH's name on it.";
+                string s3 = "-To make a connection to an NCH, press the button with the NCH's name on it. (Name is NCH(Serial #) eg. NCH000001)";
                 string s4 = "-Once connected, press the button with the title 'Turn Wifi: ' to toggle the NCH's wifi.";
                 string s5 = "-To disconnect press 'd' or the button with the NCH's name on it on the bottom of the window.";
                 string full = s1 + "\n\n" + s2 + "\n\n" + s3 + "\n\n" + s4 + "\n\n" + s5;

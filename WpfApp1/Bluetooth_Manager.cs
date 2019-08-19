@@ -19,7 +19,7 @@ using System.ComponentModel;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WpfApp1
+namespace NCHWifiController
 {
 
     class Bluetooth_Manager : IDiscovererObserver { 
